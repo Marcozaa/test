@@ -1,7 +1,7 @@
 ---
-title: Great coffee with a conscience
+title: Ortopedia
 subtitle: Support sustainable farming while enjoying a cup
-image: /img/home-jumbotron.jpg
+image: img/img-20221116-wa0028.jpg
 blurb:
   heading: Why Kaldi?
   text: Kaldi is the coffee store for everyone who believes that great coffee
